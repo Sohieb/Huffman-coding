@@ -1,0 +1,3 @@
+Test data for the compression tool blah blah blah blah.
+Test data for the compression tool blah blah blah blah.
+!@#$%^&*()_+{}123456789000000987654321
